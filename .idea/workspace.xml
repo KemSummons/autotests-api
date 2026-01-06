@@ -57,11 +57,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Python/qa-automation-engineer-api-course",
+    "last_opened_file_path": "C:/Users/Raijill/PycharmProjects/autotests-api/testdata/files",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Raijill\PycharmProjects\autotests-api\testdata\files" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Raijill\PycharmProjects\autotests-api\clients" />
     </key>
