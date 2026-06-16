@@ -8,7 +8,7 @@ class APIClient:
     def __init__(self, client: Client):
         self.client = client
 
-    def get(self, url: URL | str, params: QueryParams | None = None) -> Response:
+    def get(self, url: URL | str, params: dict | QueryParams | None = None) -> Response:
         """
         Выполняет GET-запрос.
 
